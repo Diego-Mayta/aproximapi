@@ -1,0 +1,70 @@
+
+.respuesta{
+    background-image: url(https://browsecat.net/sites/default/files/beautiful-space-wallpapers-94587-734954-6243009.png);
+    color: rgb(204, 204, 204);
+    padding: 16px;
+    text-align: center;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+section{
+    background-image: url(https://w0.peakpx.com/wallpaper/424/45/HD-wallpaper-bubbles-bubble.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    text-align: center;
+    background-image: url(https://i.ytimg.com/vi/z_hMScfhvIs/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20PX;
+}
+header h1{
+    background-color: rgba(0, 0, 0,0.7);
+    padding: 20px;
+    color: rgb(68, 96, 255);
+    font-size: 40PX;
+}
+.letritas{
+    color: wheat;
+    text-align: center;
+    background-color: rgba(0, 0, 0,0.7);
+}
+.respuesta{
+    background-image: url(https://browsecat.net/sites/default/files/beautiful-space-wallpapers-94587-734954-6243009.png);
+    color: rgb(204, 204, 204);
+    padding: 16px;
+    text-align: center;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(133, 80, 12);
+    color: white;
+    border-radius: 20px;
+    padding: 10px; 
+    
+}
+input[type=number]{
+    width: 20%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.te{
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0,0.7);
+}
